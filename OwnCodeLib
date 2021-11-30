@@ -1,0 +1,3 @@
+def four_decimals(number):
+    """ Rounds to 4 decimals """
+    return "{:.2f}".format(number)
