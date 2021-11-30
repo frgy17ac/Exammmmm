@@ -1,2 +1,2 @@
 def four_deci(number):
-    return {":.2f}".format(number)
+    return "{:.4f}".format(number)
