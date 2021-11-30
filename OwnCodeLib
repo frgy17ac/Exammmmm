@@ -1,3 +1,0 @@
-def four_deci(number):
-    """ Rounds to 4 decimals """
-    return "{:.4f}".format(number)
