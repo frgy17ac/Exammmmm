@@ -8,4 +8,6 @@ The folder 'ExamData' contains the uploaded .csv files for the exam.
 
 The folder 'Solutions' contains our solutions to the exam questions.
 
+The pdf 'ExamOrdinary2021' contains all the questions for the exam.
+
 Frederik & Thomas
