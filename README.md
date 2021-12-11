@@ -2,12 +2,10 @@
 
 This repository contains our solution to the ordinary exam 2021 in Python for the Financial Economist.
 
-The folder 'CodeLib' contains all functions, classes etc. created by Johan.
+'codelib' contains functions, classes etc. created by Johan.
+'ExamData' contains the CSV files for the exam.
+'Solutions' contains our solutions to the exam questions.
+'ExamOrdinary2021.pdf' contains the questions for the exam.
+Finally, 'SSRN-id1213325.pdf' contains the article written by Attilio Meucci titled 'Fully Flexible Views: Theory and Practice'. 
 
-The folder 'ExamData' contains the uploaded .csv files for the exam.
-
-The folder 'Solutions' contains our solutions to the exam questions.
-
-The .pdf file 'ExamOrdinary2021' contains all the questions for the exam.
-
-Frederik & Thomas
+\\ Frederik & Thomas
