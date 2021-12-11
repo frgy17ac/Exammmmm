@@ -1,6 +1,6 @@
-# Exammmmm
+# Portfolio Optimization and Short Rate Modelling
 
-This repository contains our solution to the ordinary exam 2021 in Python for the Financial Economist.
+This repository contains our solution to the ordinary exam 2021 in Python for the Financial Economist - Home Assignment (UC).
 
 'codelib' contains functions, classes etc. created by Johan.
 
