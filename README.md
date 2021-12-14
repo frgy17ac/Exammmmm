@@ -6,6 +6,8 @@ This repository contains our solution to the ordinary exam 2021 in Python for th
 
 'ExamData' contains the CSV files for the exam.
 
+'Figures' contains all figures used in the paper in PDF-format.
+
 'Solutions' contains our solutions to the exam questions.
 
 'ExamOrdinary2021.pdf' contains the questions for the exam.
